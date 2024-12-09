@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|c:\\users\\qcq\\documents\\source\\repos\\qcu_clinic-branch1\\testing\\testing\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|solutionrelative:testing\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|solutionrelative:testing\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\homedashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|solutionrelative:testing\\homedashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\homedashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|solutionrelative:testing\\homedashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\staff.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|solutionrelative:testing\\staff.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\staff.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|solutionrelative:testing\\staff.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\teachingstaff.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|solutionrelative:testing\\teachingstaff.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\achievelist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|solutionrelative:testing\\achievelist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\achievelist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|solutionrelative:testing\\achievelist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\teachingstaff.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|solutionrelative:testing\\teachingstaff.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\list.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|solutionrelative:testing\\list.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\list.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|solutionrelative:testing\\list.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|solutionrelative:testing\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7A2BE464-6350-423C-840F-E1FBD1DE1408}|testing\\testing.vbproj|solutionrelative:testing\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\Register.vb",
+              "RelativeDocumentMoniker": "testing\\Register.vb",
+              "ToolTip": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\Register.vb [Design]",
+              "RelativeToolTip": "testing\\Register.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T10:02:07.807Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeDashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\HomeDashboard.vb",
+              "RelativeDocumentMoniker": "testing\\HomeDashboard.vb",
+              "ToolTip": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\HomeDashboard.vb [Design]",
+              "RelativeToolTip": "testing\\HomeDashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T09:52:55.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Staff.vb",
+              "DocumentMoniker": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\Staff.vb",
+              "RelativeDocumentMoniker": "testing\\Staff.vb",
+              "ToolTip": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\Staff.vb",
+              "RelativeToolTip": "testing\\Staff.vb",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T08:05:47.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Staff.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\Staff.vb",
+              "RelativeDocumentMoniker": "testing\\Staff.vb",
+              "ToolTip": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\Staff.vb [Design]",
+              "RelativeToolTip": "testing\\Staff.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T08:05:45.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeDashboard.vb",
+              "DocumentMoniker": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\HomeDashboard.vb",
+              "RelativeDocumentMoniker": "testing\\HomeDashboard.vb",
+              "ToolTip": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\HomeDashboard.vb",
+              "RelativeToolTip": "testing\\HomeDashboard.vb",
+              "ViewState": "AgIAAIQAAAAAAAAAAADwv44AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T07:52:22.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\Form1.vb",
+              "RelativeDocumentMoniker": "testing\\Form1.vb",
+              "ToolTip": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\Form1.vb [Design]",
+              "RelativeToolTip": "testing\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T03:22:38.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeachingStaff.vb",
+              "DocumentMoniker": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\TeachingStaff.vb",
+              "RelativeDocumentMoniker": "testing\\TeachingStaff.vb",
+              "ToolTip": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\TeachingStaff.vb",
+              "RelativeToolTip": "testing\\TeachingStaff.vb",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T08:10:29.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Achievelist.vb",
+              "DocumentMoniker": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\Achievelist.vb",
+              "RelativeDocumentMoniker": "testing\\Achievelist.vb",
+              "ToolTip": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\Achievelist.vb",
+              "RelativeToolTip": "testing\\Achievelist.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T07:20:06.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Achievelist.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\Achievelist.vb",
+              "RelativeDocumentMoniker": "testing\\Achievelist.vb",
+              "ToolTip": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\Achievelist.vb [Design]",
+              "RelativeToolTip": "testing\\Achievelist.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T07:19:44.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeachingStaff.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\TeachingStaff.vb",
+              "RelativeDocumentMoniker": "testing\\TeachingStaff.vb",
+              "ToolTip": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\TeachingStaff.vb [Design]",
+              "RelativeToolTip": "testing\\TeachingStaff.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T08:10:28.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dashboard.vb",
+              "DocumentMoniker": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\Dashboard.vb",
+              "RelativeDocumentMoniker": "testing\\Dashboard.vb",
+              "ToolTip": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\Dashboard.vb",
+              "RelativeToolTip": "testing\\Dashboard.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T06:47:21.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "List.vb",
+              "DocumentMoniker": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\List.vb",
+              "RelativeDocumentMoniker": "testing\\List.vb",
+              "ToolTip": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\List.vb",
+              "RelativeToolTip": "testing\\List.vb",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAtwJ4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T06:31:49.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "List.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\List.vb",
+              "RelativeDocumentMoniker": "testing\\List.vb",
+              "ToolTip": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\List.vb [Design]",
+              "RelativeToolTip": "testing\\List.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T06:31:45.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\Form1.vb",
+              "RelativeDocumentMoniker": "testing\\Form1.vb",
+              "ToolTip": "C:\\Users\\QCQ\\Documents\\source\\repos\\QCU_CLINIC-Branch1\\testing\\testing\\Form1.vb",
+              "RelativeToolTip": "testing\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T03:22:42.338Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
